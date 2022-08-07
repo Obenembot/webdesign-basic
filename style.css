@@ -67,6 +67,39 @@ body {
   text-decoration: none;
 }
 
+.color-div {
+  background-color: #000;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 25px;
+}
+
+.color-black {
+  background-color: black;
+}
+
+.color-blue {
+  background-color: blue;
+}
+
+.color-red {
+  background-color: red;
+}
+
+.color-orange {
+  background-color: orange;
+}
+
+.color-green {
+  background-color: rgb(61, 206, 61);
+}
+
+.color-brown {
+  background-color: rgb(78, 58, 3);
+}
+
 .details-title {
   text-transform: uppercase;
   font-size: 16px;
