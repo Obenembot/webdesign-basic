@@ -220,11 +220,9 @@ h1::first-letter {
 h3 + p::first-line {
   /* color: red; */
 }
-
 h2 {
   position: relative;
 }
-
 h2::after {
   content: "TOP";
   background-color: #ffe70c;
