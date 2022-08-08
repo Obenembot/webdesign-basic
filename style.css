@@ -157,3 +157,9 @@ body {
   float: right;
   width: 350px;
 }
+
+.clearfix::after {
+  display: block;
+  content: "";
+  clear: both;
+}
